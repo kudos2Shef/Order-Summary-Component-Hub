@@ -13,7 +13,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -54,13 +53,12 @@ Used HTML, CSS to create Order Summary Componenet Hub. Implemented flexbox prope
 
 ### What I learned
 
-
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [@kudos2shef](https://github.com/kudos2Shef)
+- Frontend Mentor - [@kudos2shef](https://www.frontendmentor.io/profile/kudos2Shef)
 
 
 
