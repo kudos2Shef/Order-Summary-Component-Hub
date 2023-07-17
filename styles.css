@@ -168,7 +168,7 @@ body{
 	box-shadow: 0 17px 10px var(--Pale_blue);
 }
 .btn:hover{
-	background-color: var(--Desaturated_blue);
+	opacity:0.5;
 	cursor: pointer;
 }
 
