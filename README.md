@@ -26,9 +26,11 @@ Users should be able to:
 ### Screenshot
 
 desktop 1440px:-
+
 ![desktop-Order Summary component](https://github.com/kudos2Shef/Order-Summary-Component-Hub/assets/16985060/2f31959b-3b48-4578-af15-44bfaa2fde5a)
 
 mobile 375px:-
+
 ![mobile-Order Summary component](https://github.com/kudos2Shef/Order-Summary-Component-Hub/assets/16985060/1d659252-03de-48b5-aa9e-217e2813c5c1)
 
 ### Links
