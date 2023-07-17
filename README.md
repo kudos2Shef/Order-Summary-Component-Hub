@@ -34,8 +34,8 @@ mobile 375px:-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/kudos2Shef/Order-Summary-Component-Hub)
+- Live Site URL: [live site URL](https://kudos2shef.github.io/Order-Summary-Component-Hub/)
 
 ## My process
 Used HTML, CSS to create Order Summary Componenet Hub. Implemented flexbox property to allign  columns within the row ,css variables and used media queries for responsive web design.
