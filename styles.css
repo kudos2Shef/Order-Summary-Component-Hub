@@ -29,14 +29,7 @@ body{
 
 }
 
-/*
-main {
-min-height: 100vh;
-display: flex;
-flex-direction: column;
-justify-content: space-around; imp this is the one that gives space above 
-align-items: center;
-}*/
+
 
 #img1{
 	display: block;
@@ -72,6 +65,8 @@ align-items: center;
 	width: 360px;
 	border-top-right-radius:1em ;
 	border-top-left-radius:1em;
+	box-shadow: 0 2px 20px var(--Desaturated_blue);
+
 
 
 }
