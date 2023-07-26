@@ -38,7 +38,7 @@ mobile 375px:-
 - Live Site URL: [live site URL](https://kudos2shef.github.io/Order-Summary-Component-Hub/)
 
 ## My process
-Used HTML, CSS to create Order Summary Componenet Hub. Implemented flexbox property to allign  columns within the row ,css variables and used media queries for responsive web design.
+Used HTML, CSS to create Order Summary Componenet Hub. Implemented flexbox property to align  columns within the row ,css variables and used media queries for responsive web design.
 
 ### Built with
 
