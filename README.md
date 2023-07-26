@@ -34,7 +34,7 @@ mobile 375px:-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kudos2Shef/Order-Summary-Component-Hub)
+- Solution URL: [solution URL](https://github.com/kudos2Shef/Order-Summary-Component-Hub)
 - Live Site URL: [live site URL](https://kudos2shef.github.io/Order-Summary-Component-Hub/)
 
 ## My process
